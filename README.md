@@ -30,8 +30,11 @@ Source: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 **Features**
 
 	•	Exploratory Data Analysis (EDA): Understand the dataset and its correlations.
-	•	Data Preprocessing: Handle missing values, feature scaling, and splitting the dataset.
+	•	Data Preprocessing: Handle missing values, feature scaling, and dataset splitting.
 	•	Model Building: Train various machine learning models (e.g., Logistic Regression, Decision Tree, Random Forest, etc.) to predict diabetes.
 	•	Evaluation Metrics: Use metrics such as accuracy, precision, recall, and F1-score to evaluate the models.
+
+
+ **Conclusion**
 
 
