@@ -13,17 +13,19 @@ The goal is to create a predictive model that can help healthcare professionals 
 
 **Dataset** 
 
-The dataset used for this project is from Kaggle diabetes_prediction_dataset.csv. It contains the following columns:
 
-	* Pregnancies: Number of times pregnant
-	* Glucose: Plasma glucose concentration
-	*	BloodPressure: Diastolic blood pressure (mm Hg)
-	*	SkinThickness: Triceps skinfold thickness (mm)
-	*	Insulin: 2-hour serum insulin (mu U/ml)
-	*	BMI: Body mass index (weight in kg/(height in m)^2)
-	*	DiabetesPedigreeFunction: A function that represents the likelihood of diabetes based on family history
-	*	Age: Age in years
-	*	Outcome: Class variable (0: Non-diabetic, 1: Diabetic)
+The dataset used for this project is provided in the file diabetes_prediction_dataset.csv and download this file from Kaggle. It contains the following columns:
+
+	•	Pregnancies: Number of times pregnant
+	•	Glucose: Plasma glucose concentration
+	•	BloodPressure: Diastolic blood pressure (mm Hg)
+	•	SkinThickness: Triceps skinfold thickness (mm)
+	•	Insulin: 2-Hour serum insulin (mu U/ml)
+	•	BMI: Body mass index (weight in kg/(height in m)^2)
+	•	DiabetesPedigreeFunction: A function that represents the likelihood of diabetes based on family history
+	•	Age: Age in years
+	•	Outcome: Class variable (0: Non-diabetic, 1: Diabetic)
+ 
 Source: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
 
